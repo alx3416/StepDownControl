@@ -10,3 +10,19 @@ These findings provide a solid basis for future experimental verification and po
 Tested with Matlab R2021a and R2023a
 
 Just run the M-file, parameters are declared inside the script
+
+## Authors
+
+Jesus Alfonso Medrano-Hermosillo
+ 
+Abraham Efraim Rodriguez-Mata, 
+*Corresponding author: abraham.rm@chihuahua.tecnm.mx*
+
+Victor Alejandro Gonzalez-Huitron
+
+Guillermo Valencia-Palomo
+
+Larbi Djilali
+
+Oscar J. Suarez
+
